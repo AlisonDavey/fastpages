@@ -4,9 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-![cartogram](https://github.com/AlisonDavey/fastpages/blob/master/images/world.gif)
-
-![world_map](https://github.com/AlisonDavey/fastpages/blob/master/images/world_map.gif)
 
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
